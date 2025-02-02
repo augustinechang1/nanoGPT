@@ -1,2 +1,3 @@
 # nanoGPT
-build GPT from scratch with Andrej Karpathy's tutorial https://github.com/karpathy/nanoGPT
+build GPT from scratch
+(Andrej Karpathy https://github.com/karpathy/nanoGPT)
